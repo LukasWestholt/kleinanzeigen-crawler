@@ -1,3 +1,2 @@
-attrdict==2.0.0
-MechanicalSoup==0.6.0
-Jinja2==2.8
+selenium==4.23.1
+Jinja2==3.1.4

@@ -3,6 +3,10 @@
 Just a little project to waste some time.
 
 ## Instructions
+
+Download `geckodriver` for Firefox: https://github.com/mozilla/geckodriver/releases/latest
+Save it in  `driver` directory.
+
 ```bash
 pip3 install -r requirements.txt
 ./crawl.py
